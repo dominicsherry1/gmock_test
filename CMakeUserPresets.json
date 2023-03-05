@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/Users/dominicsherry/Documents/dev/gmock_test/build/CMakePresets.json"
+    ]
+}
